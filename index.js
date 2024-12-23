@@ -1,22 +1,51 @@
 // JavaScript Program to Add Two Numbers
+// const num1 = 5, num2 = 3;
+// console.log("Sum:", num1 + num2);
 
 // JavaScript Program to Find the Square Root
+// const number = 16;
+// console.log("Square Root:", Math.sqrt(number));
 
 // JavaScript Program to Calculate the Area of a Triangle
+// const base = 5, height = 10;
+// console.log("Area of Triangle:", (base * height) / 2);
 
 // JavaScript Program to Swap Two Variables
+// let a = 5, b = 10;
+// [a, b] = [b, a];
+// console.log("Swapped values: a =", a, ", b =", b);
 
 // JavaScript Program to Solve Quadratic Equation
+// const a = 1, b = -3, c = 2; // Example coefficients
+// const discriminant = Math.sqrt(b ** 2 - 4 * a * c);
+// const root1 = (-b + discriminant) / (2 * a);
+// const root2 = (-b - discriminant) / (2 * a);
+// console.log("Roots:", root1, root2);
 
 // JavaScript Program to Convert Kilometers to Miles
+// const kilometers = 10;
+// const miles = kilometers * 0.621371;
+// console.log("Miles:", miles);
 
 // Javascript Program to Convert Celsius to Fahrenheit
+// const celsius = 25;
+// const fahrenheit = (celsius * 9/5) + 32;
+// console.log("Fahrenheit:", fahrenheit);
 
 // Javascript Program to Generate a Random Number
+// const randomNum = Math.random(); // Between 0 and 1
+// console.log("Random Number:", randomNum);
 
 // Javascript Program to Check if a number is Positive, Negative, or Zero
+// const num = -5;
+// if (num > 0) console.log("Positive");
+// else if (num < 0) console.log("Negative");
+// else console.log("Zero");
 
 // Javascript Program to Check if a Number is Odd or Even
+// const number = 4;
+// if (number % 2 === 0) console.log("Even");
+// else console.log("Odd");
 
 // JavaScript Program to Find the Largest Among Three Numbers
 

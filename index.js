@@ -123,42 +123,81 @@
 // JavaScript Program to Format the Date
 
 // Javascript Program to Display Current Date
+
 // JavaScript Program to Compare The Value of Two Dates
+
 // JavaScript Program to Create Countdown Timer
+
 // JavaScript Program to Remove Specific Item From an Array
+
 // JavaScript Program to Check if An Array Contains a Specified Value
+
 // JavaScript Program to Insert Item in an Array
+
 // JavaScript Program to Append an Object to an Array
+
 // JavaScript Program to Check if An Object is An Array
+
 // JavaScript Program to Empty an Array
+
 // JavaScript Program to Add Element to Start of an Array
+
 // JavaScript Program to Remove Duplicates From Array
+
 // JavaScript Program to Merge Two Arrays and Remove Duplicate Items
+
 // JavaScript Program to Sort Array of Objects by Property Values
+
 // JavaScript Program to Create Two Dimensional Array
+
 // JavaScript Program to Extract Given Property Values from Objects as Array
+
 // JavaScript Program to Compare Elements of Two Arrays
+
 // JavaScript Program to Get Random Item From an Array
+
 // JavaScript Program To Perform Intersection Between Two Arrays
+
 // JavaScript Program to Split Array into Smaller Chunks
+
 // JavaScript Program to Include a JS file in Another JS file
+
 // JavaScript Program to Get File Extension
+
 // JavaScript Program To Check If A Variable Is undefined or null
+
 // JavaScript Program to Set a Default Parameter Value For a Function
+
 // JavaScript Program to Illustrate Different Set Operations
+
 // Javascript Program to Generate a Random Number Between Two Numbers
+
 // JavaScript Program To Get The Current URL
+
 // JavaScript Program to Validate An Email Address
+
 // JavaScript Program to Check If a Variable is of Function Type
+
 // JavaScript Program To Work With Constants
+
 // JavaScript Program to Pass Parameter to a setTimeout() Function
+
 // JavaScript Program to Generate a Range of Numbers and Characters
+
 // JavaScript Program to Perform Function Overloading
+
 // JavaScript Program to Implement a Stack
+
 // JavaScript Program to Implement a Queue
+
 // JavaScript Program to Check if a Number is Float or Integer
+
 // JavaScript Program to Pass a Function as Parameter
+
 // JavaScript Program to Get the Dimensions of an Image
+
 // JavaScript Program to Remove All Whitespaces From a Text
+
 // JavaScript Program to Write to Console
+
 // JavaScript Program to Convert Date to Number

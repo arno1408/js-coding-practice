@@ -222,3 +222,15 @@
 //   console.log(
 //     `The numbers ${num1}, ${num2} and ${num3} do not have the same last digit`
 //   );
+
+// *** Program to Find the Factors of a Number
+
+// const num = prompt("Enter a positive number: ");
+
+// console.log(`The factors of ${num} is:`);
+
+// for (let i = 1; i <= num; i++) {
+//   if (num % i == 0) {
+//     console.log(i);
+//   }
+// }
